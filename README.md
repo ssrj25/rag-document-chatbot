@@ -7,6 +7,11 @@ DocChat Pro demonstrates the complete RAG pipeline:
 **Document ingestion → chunking → embeddings → vector storage → semantic retrieval → context injection → local LLM generation → source display**
 
 ---
+## Demo
+
+
+
+
 
 ## ✨ Features
 
