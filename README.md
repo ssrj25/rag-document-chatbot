@@ -9,7 +9,7 @@ DocChat Pro demonstrates the complete RAG pipeline:
 ---
 ## Demo
 
-
+<img width="959" height="516" alt="Screenshot 2026-08-25 194911" src="https://github.com/user-attachments/assets/8fc4b421-5aba-49eb-82b6-ed55f6fa082c" />
 
 
 
